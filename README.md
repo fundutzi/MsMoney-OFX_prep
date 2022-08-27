@@ -14,7 +14,8 @@ Cleans OFX file so you can auto import to MsMoney
 3.  If your OFX file still fail to import search for lines with "TRNTYPE".
   Ensure you replace the transactio types with "OTHER"
   
-Example, say you find 
+Example, say you find:
+
     <TRNTYPE>Card Purchase
     or say 
     <TRNTYPE>THE QUICK BROWN FOX
